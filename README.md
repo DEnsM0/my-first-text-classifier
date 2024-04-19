@@ -6,4 +6,4 @@ In this project, I used the sklearn library to practically explore the workings 
 - Random Forest
 - SVC
 
-I utilized a dataset of comments from Twitter, available at the following link: [https://query.data.world/s/ucw6adw4twegolswpwcjwipvlke2y6?dws=00000]
+I utilized a dataset of comments from Twitter, available at the following link: [Twitter dataset](https://query.data.world/s/ucw6adw4twegolswpwcjwipvlke2y6?dws=00000)
